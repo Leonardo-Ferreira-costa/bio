@@ -1,0 +1,37 @@
+body{
+    background-color: #292a2d;
+    color: #dedede;
+}
+
+.mainDiv{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.phoyoBio{
+    margin: 15px 0px 25px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 2.625rem;
+}
+
+h1,h2:nth-child(n) {
+    margin-bottom:10px;
+  }
+
+  span{
+    font-size: 1.3rem;
+    margin-bottom:5px;
+  }
+
+  h3{
+    margin-top: 55px;
+    font-size: 1rem;
+    color: #999;
+    font-family: inter ui,-apple-system,BlinkMacSystemFont,roboto,segoe ui,Helvetica,Arial,sans-serif;
+  }
