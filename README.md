@@ -7,4 +7,4 @@ Em um futuro não tão tão distante, vou adicionar funções ao terminal para q
 # Link demo hospedado na Vercel: 
 [http://bio-pi-five.vercel.app](https://bio-pi-five.vercel.app/)
 
-![Visitor Badge]
+
